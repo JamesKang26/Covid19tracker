@@ -2,8 +2,6 @@
 
 James Kang
 
-To view the movie please visit: https://ix.cs.uoregon.edu/~jkang2/movie.mp4 
-
 Introduction
 I have decided to track the spread of COVID-19 across the world. Data was given by WHO (World Health Organization) (https://ourworldindata.org/coronavirus-source-data), the data I used pulled from the website titled “Full dataset”. I believe that my program is able to run even if the data updates in the future. Only problem is that WHO’s data is not consistent (originally, they had the start date set from 2/11 but they added since the start of the year). Also the data had some holes which were tricky to figure out.
 
